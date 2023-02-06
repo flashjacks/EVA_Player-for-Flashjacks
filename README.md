@@ -6,6 +6,11 @@ First:
 sjasm.exe EVAFJ10.asm EVAFJ.COM
 
 
+Sources:
+
+https://retromsx.com
+
+
 EVA video viewer “EVAFJ.COM”
 
 This program allows us to view EVA videos from Flashjacks.
